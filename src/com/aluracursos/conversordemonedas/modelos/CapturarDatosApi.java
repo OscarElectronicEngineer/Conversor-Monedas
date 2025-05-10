@@ -14,7 +14,7 @@ import java.net.http.HttpResponse;
 
 public class CapturarDatosApi {
 
-    private static final String API_KEY = "160c011822d3535034b6a461";
+    private static final String API_KEY = "";
     private static final String BASE_URL = "https://v6.exchangerate-api.com/v6/";
 
     public static double capturarDatos(String monedaOrigen, String monedaDestino, double monto) {

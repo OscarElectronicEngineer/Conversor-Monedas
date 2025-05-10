@@ -1,8 +1,5 @@
 package com.aluracursos.conversordemonedas.modelos;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Map;
 
 public record Moneda(String result,
                      String documentation,
